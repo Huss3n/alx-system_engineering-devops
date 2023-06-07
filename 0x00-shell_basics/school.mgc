@@ -1,2 +1,2 @@
-\n0 string SCHOOL School data\n!:mime School
-file -C -m school.mgc
+0 string SCHOOL School data file
+file -m school.mgc your_school_file.dat
