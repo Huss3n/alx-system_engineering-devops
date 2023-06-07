@@ -1,2 +1,3 @@
 #!/bin/bash
-l-xamp
+ls -xamp
+
