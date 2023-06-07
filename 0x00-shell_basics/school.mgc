@@ -1,2 +1,2 @@
-0 string HOLBERTON Holberton data
-!:mime Holberton
+\n0 string SCHOOL School data\n!:mime School
+file -C -m school.mgc
